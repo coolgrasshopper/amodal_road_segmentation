@@ -22,7 +22,7 @@
   - `experiments/segmentation/encoding/nn/da_att.py`: the Positional Attention module (PAM) and the Channel Attention Module
   - `experiments/segmentation/train.py`: training code
   - `experiments/segmentation/test.py`: testing code
-  - - `experiments/segmentation/overlay.py`: evaluation code of far and close IOU
+  - `experiments/segmentation/overlay.py`: evaluation code of far and close IOU
 
 4. training:
 
