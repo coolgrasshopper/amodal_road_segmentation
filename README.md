@@ -34,7 +34,7 @@
 
 ```shell (example)
    cd experiments/segmentation
-   CUDA_VISIBLE_DEVICES=0 python3 test.py --model danet --backbone resnet50 --checkname danet50 --base-size 1024 --crop-size 768 --batch-size 8 --workers 16  
+   CUDA_VISIBLE_DEVICES=0 python3 test.py --model danet --backbone resnet50 --base-size 1024 --crop-size 768 --batch-size 8 --workers 16  
 ```
 ## TODO:
 1. update evaluation code to the repo
